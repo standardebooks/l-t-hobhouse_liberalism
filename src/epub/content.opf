@@ -34,43 +34,45 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85056914</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">An early twentieth century description of the philosophy of liberal socialism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;Liberalism&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/l-t-hobhouse"&gt;L. T. Hobhouse&lt;/a&gt; explains the concept of what he calls liberal socialism. Liberalism, as Hobhouse defines it, is the freedom from coercion. Crucially, this means freedom not only from government coercion, but all forms of coercion, including economic. It is important that everyone is free to grow and develop their own individuality within society, but the government has the ultimate responsibility to ensure that one individual’s freedom is not used to limit the freedom of another. The socialist aspect of the philosophy is the belief that people are not purely self-serving and are capable of voluntarily exercising restraint when needed in order to help society flourish. In other words, liberty and equality are not in competition, but rather go hand in hand. In a liberal socialist society, “Any common life based on the avoidable suffering even of one of those who partake in it is a life not of harmony, but of discord.”&lt;/p&gt;
+			&lt;p&gt;Tracing the history of the idea of liberalism, from pre-liberal societies, to the philosophies forged in the French and American revolutions to the concept of socialism expounded by &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt;, Hobhouse defends the progress of liberalism, while asking what the future of liberalism should look like.&lt;/p&gt;
+			&lt;p&gt;Hobhouse was a journalist and professor of sociology at the University of London. He wrote numerous books on democracy, socialism, and social justice.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/28278</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/liberalism00hobh</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Liberalism</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-t-hobhouse_liberalism</meta>
 		<dc:creator id="author">L. T. Hobhouse</dc:creator>
 		<meta property="file-as" refines="#author">Hobhouse, L. T.</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Leonard Trelawny Hobhouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._T._Hobhouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80013128</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="se:role" refines="author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Élisabeth Louise Vigée Le Brun</dc:contributor>
+		<meta property="file-as" refines="#artist">Le Brun, Élisabeth Louise Virgée</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Élisabeth_Vigée_Le_Brun</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82110153</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Steven Gibbs</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Gibbs, Steven</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Martin Pettit</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Pattit, Martin</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bystricky, Lukas</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
