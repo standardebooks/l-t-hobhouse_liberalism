@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/l-t-hobhouse/liberalism</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-06-22T18:26:09Z</dc:date>
+		<meta property="dcterms:modified">2022-06-22T18:26:09Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,15 +38,15 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">An early twentieth century description of the philosophy of liberal socialism.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In &lt;i&gt;Liberalism&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/l-t-hobhouse"&gt;L. T. Hobhouse&lt;/a&gt; explains the concept of what he calls liberal socialism. Liberalism, as Hobhouse defines it, is the freedom from coercion. Crucially, this means freedom not only from government coercion, but all forms of coercion, including economic. It is important that everyone is free to grow and develop their own individuality within society, but the government has the ultimate responsibility to ensure that one individual’s freedom is not used to limit the freedom of another. The socialist aspect of the philosophy is the belief that people are not purely self-serving and are capable of voluntarily exercising restraint when needed in order to help society flourish. Viewed through this lens, liberty and equality are not in competition, but rather go hand in hand. In a liberal socialist society, “Any common life based on the avoidable suffering even of one of those who partake in it is a life not of harmony, but of discord.”&lt;/p&gt;
+			&lt;p&gt;In &lt;i&gt;Liberalism&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/l-t-hobhouse"&gt;L. T. Hobhouse&lt;/a&gt; explains the philosophy of what he calls “liberal socialism.” Liberalism, as Hobhouse defines it, is the freedom from coercion. Crucially, this means freedom not only from government coercion, but from all forms of coercion, including economic coercion. It’s important that everyone is free to grow and develop their own individuality within society, but the government has the ultimate responsibility to ensure that one individual’s freedom is not used to limit the freedom of another.&lt;/p&gt;
+			&lt;p&gt;The socialist aspect of the philosophy is the belief that people are not purely self-serving and are capable of voluntarily exercising restraint when needed in order to help society flourish. Viewed through this lens, liberty and equality are not in competition, but rather go hand in hand. In a liberal socialist society, “any common life based on the avoidable suffering even of one of those who partake in it is a life not of harmony, but of discord.”&lt;/p&gt;
 			&lt;p&gt;Tracing the history of the idea of liberalism, from pre-liberal societies, to the philosophies forged in the French and American revolutions, to the concept of socialism expounded by &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt;, Hobhouse defends the progress of liberalism, while asking what the future of liberalism should look like.&lt;/p&gt;
-			&lt;p&gt;Hobhouse was a journalist and professor of sociology at the University of London. He wrote numerous books on democracy, socialism, and social justice. &lt;i&gt;Liberalism&lt;/i&gt; was first published in 1911 and is his most well-known work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/28278</dc:source>
 		<dc:source>https://archive.org/details/liberalism00hobh</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">47781</meta>
+		<meta property="se:reading-ease.flesch">46.2</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-t-hobhouse_liberalism</meta>
 		<dc:creator id="author">L. T. Hobhouse</dc:creator>
 		<meta property="file-as" refines="#author">Hobhouse, L. T.</meta>
@@ -78,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
