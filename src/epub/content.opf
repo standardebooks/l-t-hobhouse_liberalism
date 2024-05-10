@@ -46,7 +46,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/28278</dc:source>
 		<dc:source>https://archive.org/details/liberalism00hobh</dc:source>
 		<meta property="se:word-count">47781</meta>
-		<meta property="se:reading-ease.flesch">46.2</meta>
+		<meta property="se:reading-ease.flesch">46.4</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-t-hobhouse_liberalism</meta>
 		<dc:creator id="author">L. T. Hobhouse</dc:creator>
 		<meta property="file-as" refines="#author">Hobhouse, L. T.</meta>
