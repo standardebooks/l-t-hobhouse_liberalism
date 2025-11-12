@@ -54,8 +54,8 @@
 		<meta property="se:name.person.full-name" refines="#author">Leonard Trelawny Hobhouse</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L._T._Hobhouse</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80013128</meta>
-		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Élisabeth Louise Vigée Le Brun</dc:contributor>
 		<meta property="file-as" refines="#artist">Le Brun, Élisabeth Louise Virgée</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Élisabeth_Vigée_Le_Brun</meta>
