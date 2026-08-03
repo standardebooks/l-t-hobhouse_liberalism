@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/l-t-hobhouse/liberalism</dc:identifier>
 		<dc:date>2022-06-22T18:26:09Z</dc:date>
@@ -38,12 +38,12 @@
 		<meta property="term" refines="#subject-2">sh85056914</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:description id="description">An early twentieth century description of the philosophy of liberal socialism.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>An early twentieth century description of the philosophy of liberal socialism.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;i&gt;Liberalism&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/l-t-hobhouse"&gt;L. T. Hobhouse&lt;/a&gt; explains the philosophy of what he calls “liberal socialism.” Liberalism, as Hobhouse defines it, is the freedom from coercion. Crucially, this means freedom not only from government coercion, but from all forms of coercion, including economic coercion. It’s important that everyone is free to grow and develop their own individuality within society, but the government has the ultimate responsibility to ensure that one individual’s freedom is not used to limit the freedom of another.&lt;/p&gt;
 			&lt;p&gt;The socialist aspect of the philosophy is the belief that people are not purely self-serving and are capable of voluntarily exercising restraint when needed in order to help society flourish. Viewed through this lens, liberty and equality are not in competition, but rather go hand in hand. In a liberal socialist society, “any common life based on the avoidable suffering even of one of those who partake in it is a life not of harmony, but of discord.”&lt;/p&gt;
 			&lt;p&gt;Tracing the history of the idea of liberalism, from pre-liberal societies, to the philosophies forged in the French and American revolutions, to the concept of socialism expounded by &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt;, Hobhouse defends the progress of liberalism, while asking what the future of liberalism should look like.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/28278</dc:source>
 		<dc:source>https://archive.org/details/liberalism00hobh</dc:source>
