@@ -61,14 +61,14 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Élisabeth Louise Vigée Le Brun</dc:contributor>
 		<meta property="file-as" refines="#artist">Le Brun, Élisabeth Louise Virgée</meta>
-		<link href="https://en.wikipedia.org/wiki/Élisabeth_Vigée_Le_Brun" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/%C3%89lisabeth_Vig%C3%A9e_Le_Brun" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n82110153.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Steven Gibbs</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Gibbs, Steven</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Martin Pettit</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Pattit, Martin</meta>
+		<meta property="file-as" refines="#transcriber-2">Pettit, Martin</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
